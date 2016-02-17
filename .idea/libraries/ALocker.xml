@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ALocker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ALocker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
